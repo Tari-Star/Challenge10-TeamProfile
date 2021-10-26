@@ -1,4 +1,5 @@
 // node modules
+generateHTML = require('./src/generateHTML');
 const inquirer = require('inquirer');
 const fs = require('fs');
 // team profiles

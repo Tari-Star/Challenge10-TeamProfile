@@ -5,7 +5,7 @@ const genManager = function (manager) {
      <div class='card h-100'>
       <div class='card-header'>
       <h3>${manager.name}</h3>
-      <h4>Manager</h4><i class='material-icons'>content_paste</i>
+      <h4>Manager</h4><i class='material-icons'>emoji_food_beverage</span></i>
       </div>
       <div class='card-body'>
       <p class='id'>ID: ${manager.id}</p>
@@ -43,7 +43,7 @@ const genIntern = function (intern){
         <div class="card h-100">
             <div class="card-header">
                 <h3>${intern.name}</h3>
-                <h4>Intern</h4><i class="material-icons">assignment_ind</i>
+                <h4>Intern</h4><i class="material-icons">school</i>
             </div>
 
             <div class="card-body">
@@ -91,7 +91,7 @@ const genTeamPage = function (employeeCards) {
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Team Profile</title>
+      <title>MY Team</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
       <link href="https://fonts.googleapis.com/css?family=Public+Sans:300i,300,500&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -101,7 +101,7 @@ const genTeamPage = function (employeeCards) {
   <body>
       <header>
           <nav class="navbar" id="navbar">
-              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text">Team Profile</span>
+              <span class="navbar-brand mb-0 h1 w-100 text-center" id="navbar-text">My Team</span>
           </nav>
       </header>
       <main>
