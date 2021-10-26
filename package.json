@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Tari-Star/Challenge10-TeamProfile#readme",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
