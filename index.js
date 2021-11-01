@@ -8,7 +8,7 @@ const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
 
 
-// team arrey
+// team array
 const teamArray = [];
 
 const addManager = () => {
