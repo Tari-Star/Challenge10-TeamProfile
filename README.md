@@ -26,38 +26,46 @@
   ## Installation 
 
 
-  >*To install necessary dependencies, run the following command:*
-  
- * Clone repository from GitHub and download `Node.js`.
- * Your application should use `Jest` for running the unit tests and  `Inquirer` for collecting input from the user. 
+  >*To install necessary dependencies, run the following links :*
+ 
+ * Clone [repository](https://github.com/Tari-Star/Challenge10-TeamProfile.git) from GitHub and download [Node.js](https://nodejs.org/en/).
+
+
+ * Your application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and  [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. 
 
   ## Usage
+
     
-  >*Instructions and examples for use:*
-  
+  > *Instructions and examples for use:*
+
   * The application will be invoked by using  `node index.js`
+
+
   * [View walkthrough video on Screencastify](https://watch.screencastify.com/v/VW4ykfT07O57OUZ7JawR)<br>
+
+
   * [Team Profile Generator - Repo](https://github.com/Tari-Star/Challenge10-TeamProfile.git)
 
-  ![challenge-10](./images/c10.png)
+  ![challenge-10](./assets/images/c10.png)
   
   ## Demo
 
   > Part 1
 
-  ![demo](./images/c10-part-1.gif)
+  ![demo](./assets/images/c10-part-1.gif)
 
   > Part 2
 
-  ![demo](./images/c10-part-2.gif)
+  ![demo](./assets/images/c10-part-2.gif)
 
   > Part 3
 
-  ![demo](./images/c10-part-3.gif)
+  ![demo](./assets/images/c10-part-3.gif)
+
 
   ## Tests
 
-  Use `npm run test` command to run Jest for unit tests
+  * Use `npm run test` command to run Jest for unit tests
 
   ## License
 
