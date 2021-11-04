@@ -70,9 +70,7 @@
   ## License
 
     
-  > This project is licensed under the  MIT license. 
-
-  * [MIT license](https://choosealicense.com/licenses/mit) 
+  > This project is licensed under the [MIT license](https://choosealicense.com/licenses/mit) 
     
     
   
