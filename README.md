@@ -26,7 +26,7 @@
   ## Installation 
 
 
-  >*To install necessary dependencies, run the following links :*
+  ***To install necessary dependencies, run the following links :***
  
  * Clone [repository](https://github.com/Tari-Star/Challenge10-TeamProfile.git) from GitHub and download [Node.js](https://nodejs.org/en/).
 
@@ -36,7 +36,7 @@
   ## Usage
 
     
-  > *Instructions and examples for use:*
+  ***Instructions and examples for use:***
 
   * The application will be invoked by using  `node index.js`
 
@@ -50,15 +50,15 @@
   
   ## Demo
 
-  > Part 1
+  ***Part 1***
 
   ![demo](./assets/images/c10-part-1.gif)
 
-  > Part 2
+  ***Part 2***
 
   ![demo](./assets/images/c10-part-2.gif)
 
-  > Part 3
+  ***Part 3***
 
   ![demo](./assets/images/c10-part-3.gif)
 
@@ -70,19 +70,23 @@
   ## License
 
     
-  > This project is licensed under the [MIT license](https://choosealicense.com/licenses/mit) 
+  ***This project is licensed under the [MIT license](https://choosealicense.com/licenses/mit)*** 
     
-    
-  
-   ---
+ ---
    
   ## Questions?
 
    
   <img src="https://avatars.githubusercontent.com/u/89365355?v=4" alt="Tari-Star" width="40%" />
+
   
   For any questions, please contact me with the information below:
+  ---
  
   GitHub: [@Tari-Star](https://api.github.com/users/Tari-Star)
   
-   
+  GitHub/Issues: [@Tari-Star](https://github.com/Tari-Star/Challenge10-TeamProfile/issues)
+
+ ***Contact me directly***:
+  
+ Email: [tari.star.g@gmail.com](mailto:tari.star.g@gmail.com)
